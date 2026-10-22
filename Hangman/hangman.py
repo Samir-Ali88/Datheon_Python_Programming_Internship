@@ -121,10 +121,10 @@ def game():
         #checking every guess
         guess=get_guess(guessed_letters,wrong_letters)
         if guess in secret_word:
-            print("\n  Good guess!")
+            print("\n  Good guess! ^_^")
             guessed_letters.add(guess)
         else:
-            print("\n  Wrong!")
+            print("\n  Wrong! :-D")
             wrong_letters.add(guess)
 
 
