@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Define the directory you want to organize
-directory = os.path.expanduser('~/Downloads')
+directory = os.path.expanduser('~/Downloads') #any folder
 
 # Define extensions and their corresponding folder names
 extensions = {
