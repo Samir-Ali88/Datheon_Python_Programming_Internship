@@ -19,10 +19,7 @@
       "question": "When will I receive my certificate?",
       "answer": "Certificates are reviewed and issued within 3-5 business days after your code review."
     },
-    {
-      "question": "How are you?",
-      "answer": "Samir er heda"
-    },
+   
     {
       "question": "Suggest me some tourist spots",
       "answer": "Potenga, Cox bazar, Saint Martin"
@@ -43,15 +40,9 @@
     },
     {
       "question": "How are you?",
-      "answer": "Samir er heda"
-    },
-    {
-      "question": "Suggest me some tourist spots",
-      "answer": "Potenga, Cox bazar, Saint Martin"
-    },
-    {
-      "question": "kene solor",
-      "answer": "fun doli doli"
+      "answer": "I'm fine. Good to see You."
     }
+  
+    
   ]
 }
